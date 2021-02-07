@@ -6,4 +6,3 @@ Use Jmeter (Do not use postman because it does not send parallel requests) to ca
 Now set the initial value of Number to 0.
 After the execution of Jmeter, the value of the number in the database shall be 5000. (Try the same with a bigger number 100000)
 The API should be scalable i.e. if deployed on multiple machines with same database, the result should be consistent.
-Deliverables:
