@@ -22,9 +22,9 @@ Changes required:
 Given below are the lines in which change is required.
 
 Persistence.xml
-<property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/naman"/>
+<!-- <property name="javax.persistence.jdbc.url" value="jdbc:mysql://localhost:3306/naman"/>
 <property name="javax.persistence.jdbc.user" value="root"/>
-<property name="javax.persistence.jdbc.password" value="root"/>
+<property name="javax.persistence.jdbc.password" value="root"/> -->
 
 application.properties
 spring.datasource.url=jdbc:mysql://localhost:3306/naman
